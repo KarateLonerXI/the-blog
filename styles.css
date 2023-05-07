@@ -8,3 +8,12 @@
     color: rgb(244, 240, 240);
     letter-spacing: 10px;
 }
+
+.d {
+    font-size: 1rem;
+    font: Verdana;
+}
+
+li:not(:last-child) {
+    margin-bottom: 5px;
+}
